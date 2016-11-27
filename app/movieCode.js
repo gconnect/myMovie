@@ -11,10 +11,10 @@ function canIWatch(age){
       return 'You are allowed to watch Deadpool, right after you show some ID.'
       }
 
-   else if (age >=25){
-      return 'Yay! You can watch Deadpool with no strings attached!'
+   //else if (age >=25){
+      //return 'Yay! You can watch Deadpool with no strings attached!'
       }
-   else {
-      return 'Invalid age.'
+   //else {
+     // return 'Invalid age.'
       }
       }
